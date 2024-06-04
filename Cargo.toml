@@ -1,10 +1,10 @@
 [package]
-name = "openai"
+name = "openai-fork"
 version = "1.0.0-alpha.15"
 authors = ["Lorenzo Fontoura <lorenzo@nioel.com>", "valentinegb", "n01e0"]
 edition = "2021"
 description = "An unofficial Rust library for the OpenAI API."
-repository = "https://github.com/rellfy/openai"
+repository = "https://github.com/n01e0/openai-fork"
 license = "MIT"
 keywords = ["ai", "machine-learning", "openai", "library"]
 
