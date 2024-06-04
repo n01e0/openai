@@ -1,7 +1,7 @@
 [package]
 name = "openai"
-version = "1.0.0-alpha.14"
-authors = ["Lorenzo Fontoura <lorenzo@nioel.com>", "valentinegb"]
+version = "1.0.0-alpha.15"
+authors = ["Lorenzo Fontoura <lorenzo@nioel.com>", "valentinegb", "n01e0"]
 edition = "2021"
 description = "An unofficial Rust library for the OpenAI API."
 repository = "https://github.com/rellfy/openai"
